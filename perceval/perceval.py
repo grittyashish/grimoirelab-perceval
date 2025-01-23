@@ -28,7 +28,7 @@
 #     Venu Vardhan Reddy Tekula <venuvardhanreddytekula8@gmail.com>
 #     animesh <animuz111@gmail.com>
 #     Nitish Gupta <imnitish.ng@gmail.com>
-#
+#     Ashish Kumar Choubey <contactchoubey@gmail.com>
 
 import argparse
 import logging
@@ -51,6 +51,7 @@ are:
     askbot           Fetch questions and answers from Askbot site
     bugzilla         Fetch bugs from a Bugzilla server
     bugzillarest     Fetch bugs from a Bugzilla server (>=5.0) using its REST API
+    blackduckdb      Fetch contents from BlackDuck Reporting DB using SQL queries via DP API 2.0 standards
     confluence       Fetch contents from a Confluence server
     discourse        Fetch posts from Discourse site
     dockerhub        Fetch repository data from Docker Hub site
